@@ -1,0 +1,42 @@
+{
+    "username": "admin",
+    "hashed_password": "5e884898da28047151d0e56f8dc6292773603d0d6aabbdd62a11ef721d1542d8",
+    "items": [
+        {
+            "name": "\u041a\u043e\u043b\u044c\u0446\u043e \u0441 \u0444\u0438\u0430\u043d\u0438\u0442\u043e\u043c",
+            "price": 20000,
+            "id": 2
+        },
+        {
+            "name": "\u0417\u043e\u043b\u043e\u0442\u044b\u0435 \u0441\u0435\u0440\u044c\u0433\u0438",
+            "price": 6780,
+            "id": 3
+        },
+        {
+            "name": "\u0421\u0435\u0440\u0435\u0431\u0440\u044f\u043d\u044b\u0435 \u0441\u0435\u0440\u044c\u0433\u0438",
+            "price": 1500,
+            "id": 4
+        },
+        {
+            "name": "\u041a\u043e\u043b\u044c\u0435 \u0437\u043e\u043b\u043e\u0442\u043e\u0435",
+            "price": 8000,
+            "id": 5
+        },
+        {
+            "name": "\u041a\u043e\u043b\u044c\u0435 \u0441\u0435\u0440\u0435\u0431\u0440\u044f\u043d\u043e\u0435",
+            "price": 4500,
+            "id": 6
+        },
+        {
+            "name": "\u0430\u0430",
+            "price": 33.0,
+            "id": 7
+        },
+        {
+            "name": "\u0432",
+            "price": 33.0,
+            "id": 9
+        }
+    ],
+    "key": "alhTdKJZboNZ2m9ogiX0py7-QYMDbkjfcA5TT9W2d88="
+}
